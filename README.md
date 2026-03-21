@@ -14,7 +14,9 @@ To analyze stock market data and identify trends, volatility, and performance pa
 - Compared performance across sectors  
 
 ## Dashboard Preview
-<img width="1221" height="706" alt="image" src="https://github.com/user-attachments/assets/b77d4411-165d-4c42-abb4-7a55484d94b2" />
+<img width="1213" height="683" alt="Stock Market Analysis" src="https://github.com/user-attachments/assets/9f849e79-08ce-49b6-84f1-48196e88e559" />
+
+
 
 
 ## Dashboard Link
