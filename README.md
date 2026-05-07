@@ -13,11 +13,5 @@ To analyze stock market data and identify trends, volatility, and performance pa
 - Observed volatility patterns in different stocks  
 - Compared performance across sectors  
 
-## Dashboard Preview
-<img width="1213" height="683" alt="Stock Market Analysis" src="https://github.com/user-attachments/assets/9f849e79-08ce-49b6-84f1-48196e88e559" />
-
-
-
-
 ## Dashboard Link
-[Click here to view Dashboard](https://drive.google.com/drive/folders/1ryIaCRc_cLRQjzrCmVtBPJUj9fNVj8_C?usp=sharing)
+[Click here to view Dashboard](https://drive.google.com/file/d/19aXEmuIk4hXWU_tUSH5JbMR1oyjgKJ3F/view?usp=drive_link)
